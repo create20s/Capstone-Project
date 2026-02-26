@@ -6,4 +6,4 @@ Used conditional formatting and KPIs to clearly highlight highest and lowest per
 
 Enabled dynamic analysis using slicers (branch, product line, month, customer type, payment method), allowing stakeholders to make data-driven decisions efficiently
 
-![dashboard](https://drive.google.com/file/d/1QlVyv6mNHKVOfJ8kNEDJNQ6-MlsF3Ppe/view?usp=sharing)
+![dashboard](https://github.com/create20s/Capstone-Project/blob/main/Capstone.png)
