@@ -5,3 +5,5 @@ Identified Branch C as the top-performing branch with 105K in sales and Food & B
 Used conditional formatting and KPIs to clearly highlight highest and lowest performers, enabling quick comparison across branches and product lines.
 
 Enabled dynamic analysis using slicers (branch, product line, month, customer type, payment method), allowing stakeholders to make data-driven decisions efficiently
+
+![dashboard](https://drive.google.com/file/d/1QlVyv6mNHKVOfJ8kNEDJNQ6-MlsF3Ppe/view?usp=sharing)
